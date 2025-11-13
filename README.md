@@ -59,7 +59,7 @@ EDA was performed to identify relationships and patterns within the data:
 - Relationship between police deployment and closure rate.  
 - Trends over time (by week and month of reporting).  
 - Correlation heatmaps and visualization of inter-feature relationships.
-- <img width="764" height="682" alt="image" src="https://github.com/user-attachments/assets/6f25f28e-45ec-4523-9860-ccc63d89f868" />
+- <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/6f25f28e-45ec-4523-9860-ccc63d89f868" />
 
 
 Key visualizations:
@@ -68,8 +68,8 @@ Key visualizations:
 - Pie charts for city-wise case closures  
 - Scatter plots for relationships (e.g., Victim Age vs Police Deployed)  
 - Heatmap for correlation analysis
-  <img width="722" height="447" alt="image" src="https://github.com/user-attachments/assets/a2db051d-186c-4206-8187-f9ce07c004c7" />
-  <img width="722" height="590" alt="image" src="https://github.com/user-attachments/assets/a34f6239-a2cb-4718-9f2d-089ab543d112" />
+  <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/a2db051d-186c-4206-8187-f9ce07c004c7" />
+  <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/a34f6239-a2cb-4718-9f2d-089ab543d112" />
   
 
 
@@ -133,7 +133,7 @@ Key visualizations:
 | Cluster 1 | Rural, low deployment, low closure | Petty crimes |
 | Cluster 2 | Cyber or financial crimes | Delayed closure |
 | Cluster 3 | Balanced profile | Mixed-category crimes |
-<img width="833" height="547" alt="image" src="https://github.com/user-attachments/assets/d52e0410-4ff7-40a6-b436-539fb6cdcbf5" />
+<img width="733" height="490" alt="image" src="https://github.com/user-attachments/assets/d52e0410-4ff7-40a6-b436-539fb6cdcbf5" />
 
 ---
 
@@ -148,7 +148,7 @@ All classification models were evaluated using:
 
 
 The **Support Vector Machine (SVM)** model achieved the best overall F1-score, making it the most suitable for predicting case closure outcomes.
-<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/30b858b8-c0c6-4c78-a98f-67fb8b40d0eb" />
+<img width="800" height="560" alt="image" src="https://github.com/user-attachments/assets/30b858b8-c0c6-4c78-a98f-67fb8b40d0eb" />
 
 
 ---
