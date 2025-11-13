@@ -67,7 +67,7 @@ Key visualizations:
 - Boxplots and histograms for numerical distributions  
 - Pie charts for city-wise case closures  
 - Scatter plots for relationships (e.g., Victim Age vs Police Deployed)  
-- Heatmap for correlation analysis
+
   <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/a2db051d-186c-4206-8187-f9ce07c004c7" />
   <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/a34f6239-a2cb-4718-9f2d-089ab543d112" />
   
