@@ -147,8 +147,10 @@ All classification models were evaluated using:
 - <img width="600" height="482" alt="image" src="https://github.com/user-attachments/assets/a21482a1-18cb-4ba2-838c-725222a26e4d" />
 
 
-The **Support Vector Machine (SVM)** model achieved the best overall F1-score, making it the most suitable for predicting case closure outcomes.
+
 <img width="800" height="560" alt="image" src="https://github.com/user-attachments/assets/30b858b8-c0c6-4c78-a98f-67fb8b40d0eb" />
+
+The **Support Vector Machine (SVM)** model achieved the best overall F1-score, making it the most suitable for predicting case closure outcomes.
 
 
 ---
